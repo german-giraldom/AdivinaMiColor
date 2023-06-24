@@ -13,7 +13,6 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
-import javax.swing.text.StyledEditorKit.BoldAction;
 
 public class Principal extends JFrame {
 	
@@ -191,12 +190,6 @@ public class Principal extends JFrame {
 	}
 
 	public static void main(String[] args) {
-		
-		try{
-			
-		}catch (Exception e) {
-			
-		}
 		Principal print = new Principal();
 	}
 }
